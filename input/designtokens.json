@@ -1,141 +1,146 @@
 {
-  "global": {
-    "colors": {
-      "americaOrange": {
-        "100": {
-          "value": "#FFF3E6",
-          "type": "color"
-        },
-        "300": {
-          "value": "#FFC580",
-          "type": "color"
-        },
-        "500": {
-          "value": "#ff8a00",
-          "type": "color"
-        },
-        "650": {
-          "value": "#995300",
-          "type": "color"
-        },
-        "800": {
-          "value": "#4D2900",
-          "type": "color"
-        }
-      },
-      "seaBlue": {
-        "75": {
-          "value": "#eaf5f7",
-          "type": "color"
-        },
-        "150": {
-          "value": "#cbe5eb",
-          "type": "color"
-        },
-        "250": {
-          "value": "#97cbd6",
-          "type": "color"
-        },
-        "350": {
-          "value": "#68aebf",
-          "type": "color"
-        },
-        "450": {
-          "value": "#3590a6",
-          "type": "color"
-        },
-        "500": {
-          "value": "#00738d",
-          "type": "color"
-        },
-        "650": {
-          "value": "#004555",
-          "type": "color"
-        },
-        "750": {
-          "value": "#002e38",
-          "type": "color"
-        },
-        "800": {
-          "value": "#00232a",
-          "type": "color"
-        }
-      },
-      "primary": {
-        "100": {
-          "value": "{colors.americaOrange.100}",
-          "type": "color",
-          "description": "brightess orange"
-        },
-        "300": {
-          "value": "{colors.americaOrange.300}",
-          "type": "color",
-          "description": "this is a description"
-        },
-        "500": {
-          "value": "{colors.americaOrange.500}",
-          "type": "color",
-          "description": "default color"
-        },
-        "650": {
-          "value": "{colors.americaOrange.650}",
-          "type": "color",
-          "description": "between light and dark"
-        },
-        "800": {
-          "value": "{colors.americaOrange.800}",
-          "type": "color",
-          "description": "darkest primary"
-        }
-      },
-      "secondary": {
-        "75": {
-          "value": "{colors.seaBlue.75}",
-          "type": "color",
-          "description": "hui! Hell!"
-        },
-        "150": {
-          "value": "{colors.seaBlue.150}",
-          "type": "color",
-          "description": "can be the brightest"
-        },
-        "250": {
-          "value": "{colors.seaBlue.250}",
-          "type": "color",
-          "description": "between bright and normal"
-        },
-        "350": {
-          "value": "{colors.seaBlue.350}",
-          "type": "color",
-          "description": "lighter than 500"
-        },
-        "450": {
-          "value": "{colors.seaBlue.450}",
-          "type": "color",
-          "description": "yamyam"
-        },
-        "500": {
-          "value": "{colors.seaBlue.500}",
-          "type": "color",
-          "description": "the original codecamp color"
-        },
-        "650": {
-          "value": "{colors.seaBlue.650}",
-          "type": "color",
-          "description": "a bit darker"
-        },
-        "750": {
-          "value": "{colors.seaBlue.750}",
-          "type": "color",
-          "description": "Hallo Mutti!"
-        },
-        "800": {
-          "value": "{colors.seaBlue.800}",
-          "type": "color",
-          "description": "darkest one"
-        }
-      }
-    }
-  },
-  "$themes": []
+	"global": {
+		"colors": {
+			"americaOrange": {
+				"100": {
+					"value": "#FFF3E6",
+					"type": "color",
+					"description": "brightess orange"
+				},
+				"300": {
+					"value": "#FFC580",
+					"type": "color",
+					"description": "this is a description"
+				},
+				"500": {
+					"value": "#ff8a00",
+					"type": "color",
+					"description": "default color"
+				},
+				"650": {
+					"value": "#995300",
+					"type": "color",
+					"description": "between light and dark"
+				},
+				"800": {
+					"value": "#4D2900",
+					"type": "color",
+					"description": "darkest orange"
+				}
+			},
+			"seaBlue": {
+				"75": {
+					"value": "#eaf5f7",
+					"type": "color"
+				},
+				"150": {
+					"value": "#cbe5eb",
+					"type": "color"
+				},
+				"250": {
+					"value": "#97cbd6",
+					"type": "color"
+				},
+				"350": {
+					"value": "#68aebf",
+					"type": "color"
+				},
+				"450": {
+					"value": "#3590a6",
+					"type": "color"
+				},
+				"500": {
+					"value": "#00738d",
+					"type": "color"
+				},
+				"650": {
+					"value": "#004555",
+					"type": "color"
+				},
+				"750": {
+					"value": "#002e38",
+					"type": "color"
+				},
+				"800": {
+					"value": "#00232a",
+					"type": "color"
+				}
+			},
+			"primary": {
+				"100": {
+					"value": "{colors.americaOrange.100}",
+					"type": "color",
+					"description": "brightess primary"
+				},
+				"300": {
+					"value": "{colors.americaOrange.300}",
+					"type": "color",
+					"description": "this is a description"
+				},
+				"500": {
+					"value": "{colors.americaOrange.500}",
+					"type": "color",
+					"description": "default primary"
+				},
+				"650": {
+					"value": "{colors.americaOrange.650}",
+					"type": "color",
+					"description": "between light and dark"
+				},
+				"800": {
+					"value": "{colors.americaOrange.800}",
+					"type": "color",
+					"description": "darkest primary"
+				}
+			},
+			"secondary": {
+				"75": {
+					"value": "{colors.seaBlue.75}",
+					"type": "color",
+					"description": "hui! Hell!"
+				},
+				"150": {
+					"value": "{colors.seaBlue.150}",
+					"type": "color",
+					"description": "can be the brightest"
+				},
+				"250": {
+					"value": "{colors.seaBlue.250}",
+					"type": "color",
+					"description": "between bright and normal"
+				},
+				"350": {
+					"value": "{colors.seaBlue.350}",
+					"type": "color",
+					"description": "lighter than 500"
+				},
+				"450": {
+					"value": "{colors.seaBlue.450}",
+					"type": "color",
+					"description": "yamyam"
+				},
+				"500": {
+					"value": "{colors.seaBlue.500}",
+					"type": "color",
+					"description": "the original codecamp color"
+				},
+				"650": {
+					"value": "{colors.seaBlue.650}",
+					"type": "color",
+					"description": "a bit darker"
+				},
+				"750": {
+					"value": "{colors.seaBlue.750}",
+					"type": "color",
+					"description": "Hallo Mutti!"
+				},
+				"800": {
+					"value": "{colors.seaBlue.800}",
+					"type": "color",
+					"description": "darkest one"
+				}
+			}
+		}
+	},
+	"$themes": []
 }

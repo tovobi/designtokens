@@ -1,0 +1,22 @@
+{
+	"name": "designtokens",
+	"version": "1.0.0",
+	"description": "automate the process of transforming the updated design tokens to platform deliverables with Style Dictionary",
+	"dependencies": {
+		"style-dictionary": "^3.7.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"build": "style-dictionary build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://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@github.com/tovobi/designtokens.git"
+	},
+	"author": "tovobi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tovobi/designtokens/issues"
+	},
+	"homepage": "https://github.com/tovobi/designtokens#readme"
+}
